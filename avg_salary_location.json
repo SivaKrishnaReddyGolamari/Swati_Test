@@ -1,0 +1,46 @@
+[
+  {
+    "_id": "New York",
+    "Avg_salary": 68333.33333333333
+  },
+  {
+    "_id": "Madrid",
+    "Avg_salary": 61500.0
+  },
+  {
+    "_id": "Toronto",
+    "Avg_salary": 63000.0
+  },
+  {
+    "_id": "London",
+    "Avg_salary": 56666.666666666664
+  },
+  {
+    "_id": "Paris",
+    "Avg_salary": 57666.666666666664
+  },
+  {
+    "_id": "Sydney",
+    "Avg_salary": 60500.0
+  },
+  {
+    "_id": "Chicago",
+    "Avg_salary": 68333.33333333333
+  },
+  {
+    "_id": "Tokyo",
+    "Avg_salary": 61500.0
+  },
+  {
+    "_id": "Los Angeles",
+    "Avg_salary": 67250.0
+  },
+  {
+    "_id": "Berlin",
+    "Avg_salary": 58333.333333333336
+  },
+  {
+    "_id": "San Francisco",
+    "Avg_salary": 70000.0
+  }
+]
